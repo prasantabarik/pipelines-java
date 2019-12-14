@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/prasantabarikoec1983/Parts%20Unlimited/_apis/build/status/Parts%20Unlimited-Maven-CI?branchName=master)](https://dev.azure.com/prasantabarikoec1983/Parts%20Unlimited/_build/latest?definitionId=2&branchName=master)
 
 # Contributing
 
