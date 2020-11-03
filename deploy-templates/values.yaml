@@ -10,7 +10,9 @@ database:
 
 
 ingress:
-  required: false
+  required: true
+  site: javapipeline
+  path: /api
 
 image:
   name: pipelines-java
