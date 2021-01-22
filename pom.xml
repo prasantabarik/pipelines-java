@@ -4,7 +4,7 @@
   <groupId>helloworld</groupId>
   <artifactId>helloworld</artifactId>
   <packaging>war</packaging>
-  <version>1.0.1</version>
+  <version>1.0.0</version>
   <name>Hello world sample web app</name>
   <url>http://maven.apache.org</url>
 
@@ -42,10 +42,8 @@
       </plugin>
     </plugins>
   </build>
-
   <properties>
     <maven.compiler.source>1.8</maven.compiler.source>
     <maven.compiler.target>1.8</maven.compiler.target>
   </properties>
-	
 </project>
